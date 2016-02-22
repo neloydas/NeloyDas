@@ -1,0 +1,5 @@
+Soft Drinks:2.40
+Whiskey:5.20
+Beer:3.10
+Cocktail:6.50
+Water:1.00
